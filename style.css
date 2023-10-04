@@ -12,7 +12,7 @@ html{
 }
 body{
     align-items: center;
-    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    background: linear-gradient(320deg, #e69721, #ffffff, #63c9b4);
     display: flex;
     font-family: 'Dosis',sans-serif;
     font-display: swap;
